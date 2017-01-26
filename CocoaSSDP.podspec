@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
 
   s.license          = 'MIT'
   s.author           = { "Stephane Boisson" => "sboisson@users.noreply.github.com" }
-  s.source           = { :git => "https://github.com/sboisson/CocoaSSDP.git", :tag => s.version.to_s }
+  s.source           = { :git => "https://github.com/Shodogg/CocoaSSDP.git", :tag => s.version.to_s }
 
   s.ios.deployment_target  = '7.0'
   s.osx.deployment_target  = '10.7'
