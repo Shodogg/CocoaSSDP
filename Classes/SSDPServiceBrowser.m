@@ -36,7 +36,7 @@
 NSString *const SSDPMulticastGroupAddress = @"239.255.255.250";
 int const SSDPMulticastUDPPort = 1900;
 
-NSString *const SSDPVersionString = @"CocoaSSDP/0.1.0";
+NSString *const SSDPVersionString = @"CocoaSSDP/1.0.0";
 NSString *const SSDPResponseStatusKey = @"HTTP-Status";
 NSString *const SSDPRequestMethodKey = @"HTTP-Method";
 
